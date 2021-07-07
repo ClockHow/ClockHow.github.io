@@ -1,0 +1,53 @@
+body{
+    
+    background: url(images/oilpaint.jpg);
+    font-weight: lighter;
+}
+div{
+    padding: 0;
+    margin: 0;
+    display: block;
+}
+.inner{
+    padding: 50px 0px 35px 0;
+    position: relative;
+}
+.inner1{
+    width: 335px;
+    padding: 0 65px;
+    text-align: left;
+    position: relative;
+    float: left;
+}
+.inner2{
+    width: 335px;
+    padding: 0 65px;
+    text-align: left;
+    position: relative;
+    float: left;
+}
+h2{
+    margin-bottom: 15px;
+    font-size: 20px;
+    font-weight: lighter;
+    font-family: "Helvetica Neue";
+}
+.path{
+    color: #000;
+    margin-bottom: 25px;
+    font-size: 12px;
+    font-weight: lighter;
+}
+p{
+    font-size: 12px;
+    font-weight: lighter;
+    color: gray;
+}
+.inner2-image{
+    height: 270px;
+    width: auto;
+}
+.inner2-image img{
+    height: 270px;
+    width: auto;
+}
